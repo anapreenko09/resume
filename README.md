@@ -3,4 +3,4 @@
 ## Результаты вы можете посмотреть тут:
 
 
-[Моя первая работа в HTML & CSS](https://duckduckgo.com)
+[Моя первая работа в HTML & CSS](https://github.com/anapreenko09/resume.git)
